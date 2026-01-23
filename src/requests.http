@@ -4,7 +4,7 @@ POST http://localhost:8080/api/users
 Content-Type: application/json
 
 {
-  "name": "Pablo Matanza",
-  "email": "pablo@finance.com",
-  "password": "myPassword"
+  "name": "Pablo Barahona",
+  "email": "pabloEncoder@finance.com",
+  "password": "hi1234"
 }
